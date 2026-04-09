@@ -1,0 +1,16 @@
+body {
+    transition: 0.3s;
+}
+
+.dark {
+    background-color: #121212;
+    color: white;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+button {
+    margin-right: 5px;
+}
